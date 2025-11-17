@@ -9,11 +9,12 @@ This Mini Program was created form scratch in two months. It still has imperfect
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 3px;">
-  <img src="docs/image/miniprogram.png" width="250">
-  <img src="docs/image/device_start.png" width="250">
-  <img src="docs/image/setting-page.png" width="250">
-  <img src="docs/image/introduction-page.png" width="250">
+  <img src="docs/image/miniprogram.png" width="175">
+  <img src="docs/image/device_start.png" width="175">
+  <img src="docs/image/setting-page.png" width="175">
+  <img src="docs/image/introduction-page.png" width="175">
 </div>
+
 
 ## Features
 
@@ -53,7 +54,7 @@ This Mini Program was created form scratch in two months. It still has imperfect
    Socket Legal Domains: wss://bemfa.com:9504
    ```
 
-   ![setting](D:\miniProgram\myProject\Project2-for-share\docs\image\setting.png)
+   ![setting](.\docs\image\setting.png)
 
 ## How to Use
 
