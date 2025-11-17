@@ -8,11 +8,11 @@ This Mini Program was created form scratch in two months. It still has imperfect
 
 ## Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 3px;">
-  <img src="docs/image/miniprogram.png" width="175">
-  <img src="docs/image/device_start.png" width="175">
-  <img src="docs/image/setting-page.png" width="175">
-  <img src="docs/image/introduction-page.png" width="175">
+<div style="display: flex; overflow-x: auto; gap: 2px;">
+  <img src="docs/image/miniprogram.png" width="200">
+  <img src="docs/image/device_start.png" width="200">
+  <img src="docs/image/setting-page.png" width="200">
+  <img src="docs/image/introduction-page.png" width="200">
 </div>
 
 
@@ -54,7 +54,7 @@ This Mini Program was created form scratch in two months. It still has imperfect
    Socket Legal Domains: wss://bemfa.com:9504
    ```
 
-   ![setting](.\docs\image\setting.png)
+   <img src="/docs/image/setting.png"/>
 
 ## How to Use
 
